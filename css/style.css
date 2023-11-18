@@ -30,8 +30,9 @@ h1, h2, h3, p{
 }
 
 p{
-    line-height: 1.5rem;
+    line-height: 2.5rem;
     color: black;
+    font-size: 1.5rem;
 }
 
 .container{
