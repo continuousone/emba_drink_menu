@@ -57,9 +57,11 @@ p{
 .drink-container{
     display:flex;
     flex-direction: column;
-    margin: 0 auto;
+    margin: 3em auto;
     text-align: center;
     align-items: center;
+    border-bottom: 1px solid #990000;
+    border-width: 1px;
     /* justify-content: space-evenly; */
 }
 
