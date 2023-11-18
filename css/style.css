@@ -48,17 +48,17 @@ p{
     margin: 0 auto;
     text-align: center;
     align-items: center;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
 }
 
 .drink-img-left{
-    width: 40%;
+    width: 1000%;
     padding: 3em;
     border-top: 1px solid black;
 margin-top: 3em;
 }
 .drink-img-right{
-    width: 40%;
+    width: 1000%;
     padding: 3em;
     border-top: 1px solid black;
     margin-top: 3em;
@@ -66,13 +66,13 @@ margin-top: 3em;
 
 .recipe-left{
     margin-left: 2em;
-    width: 50%;
+    width: 100%;
     text-align: center;
 }
 
 .recipe-right{
     margin-left: 2em;
-    width: 50%;
+    width: 100%;
     text-align: center;
     
 }
