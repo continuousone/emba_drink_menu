@@ -58,9 +58,9 @@ p{
     width: 100%;
     /* padding-bottom: 1em; */
     /* padding-top: 3em; */
-    border-top: 1px solid black;
+
     margin-top: 4em;
-    margin-right: 100px;
+    /* margin-right: 100px; */
 }
 
 
@@ -68,12 +68,16 @@ p{
     /* margin-left: 2em; */
     width: 100%;
     text-align: center;
+    border-bottom: 1px solid #990000;
+    border-width: 50%;
 }
 
 .recipe-right{
     /* margin-left: 2em; */
     width: 100%;
     text-align: center;
+    border-bottom: 1px solid #990000;
+    border-width: 50%;
     
 }
 
