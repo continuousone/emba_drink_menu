@@ -60,7 +60,7 @@ margin-top: 3em;
 .drink-img-right{
     width: 40%;
     padding: 3em;
-    border-top: 1px solid rgb(211, 130, 130);
+    border-top: 1px solid black;
     margin-top: 3em;
 }
 
@@ -75,6 +75,17 @@ margin-top: 3em;
     width: 50%;
     text-align: center;
     
+}
+
+.logo{
+    width: 150px;
+}
+
+.footer-logo{
+    display:flex;
+    width: 150px;
+    margin: 0 auto;
+    align-items: center;
 }
 
 /* ----- MEDIA QUERIES -----
