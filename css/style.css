@@ -75,7 +75,7 @@ p{
 
 .recipe-left{
     /* margin-left: 2em; */
-    width: 100%;
+    /* width: 100%; */
     text-align: center;
     border-bottom: 1px solid #990000;
     border-width: 50%;
@@ -83,7 +83,7 @@ p{
 
 .recipe-right{
     /* margin-left: 2em; */
-    width: 100%;
+    /* width: 100%; */
     text-align: center;
     border-bottom: 1px solid #990000;
     border-width: 50%;
